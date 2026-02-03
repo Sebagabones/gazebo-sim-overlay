@@ -1,7 +1,7 @@
 {
   callPackage,
   ignition,
-  ffmpeg,
+  ffmpeg_7,
   ...
 } @ args:
 callPackage ./. ({
@@ -11,6 +11,6 @@ callPackage ./. ({
     ignition-math = ignition.math6;
     ignition-utils = ignition.utils1;
     ignition-cmake = ignition.cmake2;
-    ffmpeg = ffmpeg;
+    ffmpeg = ffmpeg_7;
   }
   // args)
