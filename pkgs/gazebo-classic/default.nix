@@ -90,7 +90,6 @@ mkDerivation rec {
     sdformat_9
     tbb
     ogre1_9
-    ffmpeg_5
     ignition-math
     ignition-transport
     ignition-msgs
