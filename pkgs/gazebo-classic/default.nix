@@ -26,7 +26,6 @@
   sdformat_9,
   tbb,
   ogre1_9,
-  ffmpeg_5,
   ignition,
   ignition-cmake ? ignition.cmake2,
   ignition-common ? ignition.common3,
