@@ -29,7 +29,7 @@
   ffmpeg_7,
   ignition,
   ignition-cmake ? ignition.cmake2,
-  ignition-common ? ignition.common3,
+  ignition-common ? ignition.common4,
   ignition-math ? ignition.math6,
   ignition-transport ? ignition.transport8,
   ignition-msgs ? ignition.msgs5,
