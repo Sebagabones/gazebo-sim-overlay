@@ -26,6 +26,7 @@
   sdformat_9,
   tbb,
   ogre1_9,
+  ffmpeg_7,
   ignition,
   ignition-cmake ? ignition.cmake2,
   ignition-common ? ignition.common3,
@@ -90,6 +91,7 @@ mkDerivation rec {
     sdformat_9
     tbb
     ogre1_9
+  ffmpeg_7
     ignition-math
     ignition-transport
     ignition-msgs
