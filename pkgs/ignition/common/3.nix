@@ -1,7 +1,7 @@
 {
   callPackage,
   ignition,
-  ffmpeg_5,
+  ffmpeg,
   ...
 } @ args:
 callPackage ./. ({
